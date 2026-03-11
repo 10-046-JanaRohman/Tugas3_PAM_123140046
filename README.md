@@ -1,9 +1,9 @@
 # My Profile App
 
-Aplikasi **My Profile App** adalah aplikasi sederhana yang dibuat menggunakan **Jetpack Compose di Android Studio**.  
+Aplikasi **My Profile App** adalah aplikasi sederhana yang dibuat menggunakan Jetpack Compose di Android Studio.  
 Aplikasi ini menampilkan halaman profil yang berisi foto profil, nama, bio singkat, serta informasi kontak seperti email, nomor telepon, dan lokasi.
 
-Aplikasi ini dibuat sebagai **Tugas Praktikum 3 – Pengembangan Aplikasi Mobile**.
+Aplikasi ini dibuat sebagai Tugas Praktikum 3 – Pengembangan Aplikasi Mobile.
 
 ---
 
@@ -77,12 +77,8 @@ Struktur layout aplikasi menggunakan:
 ## Screenshot Aplikasi
 
 Berikut tampilan aplikasi **My Profile App**:
+<img width="344" height="647" alt="Screenshot 2026-03-12 013131" src="https://github.com/user-attachments/assets/e7d22963-ea05-4f9e-be40-6edf21e351f6" />
 
-![Screenshot Aplikasi](profile.jpg)
-
-*(Pastikan file screenshot.png sudah diupload ke repository GitHub agar gambar dapat tampil.)*
-
----
 
 ## Teknologi yang Digunakan
 
