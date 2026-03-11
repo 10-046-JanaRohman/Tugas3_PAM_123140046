@@ -76,9 +76,7 @@ Struktur layout aplikasi menggunakan:
 
 ## Screenshot Aplikasi
 
-Berikut tampilan aplikasi **My Profile App**:
 <img width="344" height="647" alt="Screenshot 2026-03-12 013131" src="https://github.com/user-attachments/assets/e7d22963-ea05-4f9e-be40-6edf21e351f6" />
-
 
 ## Teknologi yang Digunakan
 
@@ -94,7 +92,7 @@ Berikut tampilan aplikasi **My Profile App**:
 1. Clone repository ini
 
 ```
-git clone https://github.com/username/repository-name.git
+https://github.com/10-046-JanaRohman/Tugas3_PAM_123140046.git
 ```
 
 2. Buka project menggunakan **Android Studio**
