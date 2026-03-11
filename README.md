@@ -67,10 +67,10 @@ Container utama yang berisi seluruh informasi profil.
 
 Struktur layout aplikasi menggunakan:
 
-- **Box** → untuk menempatkan profil di tengah layar
-- **Card** → sebagai tampilan kartu profil
-- **Column** → menyusun elemen secara vertikal
-- **Row** → menyusun ikon dan teks informasi
+- Box: untuk menempatkan profil di tengah layar
+- Card: sebagai tampilan kartu profil
+- Column: menyusun elemen secara vertikal
+- Row: menyusun ikon dan teks informasi
 
 ---
 
